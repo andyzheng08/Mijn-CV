@@ -1,0 +1,30 @@
+
+body {
+    background-color: white;
+    background-image: fixed;
+    text-align: left
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+.image1 {
+    border-radius: 50%;
+    float: right;
+}
+.gegevens {
+    line-height: 5px;
+    margin: 150px 200px;
+}
+.gegevens1 {
+    line-height: 5px;
+    margin: -326px 500px;
+    
+}
+    
+
+
+
+
+    
