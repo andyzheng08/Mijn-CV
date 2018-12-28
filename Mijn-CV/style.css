@@ -1,28 +1,50 @@
 
 body {
-    background-color: white;
-    background-image: fixed;
-    text-align: left
+    background-color: rgb(147, 198, 231);
+    position: absolute;
 }
+
 h1 {
     text-align: center;
     color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.image1 {
-    border-radius: 50%;
+h2 {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.info {
+    line-height: 5px;
+    margin: 100px 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.info1 {
+    line-height: 5px;
+    margin: -445px 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
     float: right;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 115px;
+    margin-right: 150px;
 }
-.gegevens {
-    line-height: 5px;
-    margin: 150px 200px;
+
+hr {
+    border: 1px solid black;
 }
-.gegevens1 {
-    line-height: 5px;
-    margin: -326px 500px;
-    
+
+.experience {
+    margin-left: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-    
 
 
 
